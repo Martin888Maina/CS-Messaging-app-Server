@@ -25,7 +25,7 @@ Welcome to the Web Messaging application. This application is built majorly usin
 ## Running the Backend
 
 1. **Clone the Repository:**
-   - Clone this repository to your local machine using `git clone https://github.com/martin888maina/your-repository.git`.
+   - Clone this repository to your local machine using `git clone https://github.com/martin888maina/CS-Messaging-app-Server.git`.
 
 2. **Navigate to the Project Directory:**
    - Open the cloned repository in Visual Studio Code.
@@ -43,7 +43,7 @@ Welcome to the Web Messaging application. This application is built majorly usin
 
 6. **Test Endpoints with Postman:**
    - Open Postman.
-   - Test the endpoints by sending requests to `http://localhost:your-port`.
+   - Test the endpoints by sending requests to `http://localhost:4000`.
 
 
 ## Pages
